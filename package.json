@@ -1,0 +1,23 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dupitek/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "opick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dupitek/apprestapi/issues"
+  },
+  "homepage": "https://github.com/dupitek/apprestapi#readme"
+}
